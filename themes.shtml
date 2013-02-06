@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Penn State Developmental Psychology</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Website for the developmental psychology area at Penn State" />
+<meta name="keywords" content="development, neuroscience, PSU, Penn State, psychology" />
+<meta name="author" content="Rick Gilmore / Original design by Andreas Viklund - http://andreasviklund.com" />
+<link rel="stylesheet" href="andreas09.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+
+<!--#include file="include/header.shtml" -->
+
+<div id="wrap">
+
+<!-- div id="leftside" -->
+<div id="leftside">
+<h1>Menu</h1>
+<p>
+<a class="nav" href="index.shtml">Home</a><span class="hide"> | </span>
+<a class="nav " href="faculty.shtml">Faculty</a><span class="hide"> | </span>
+<a class="nav" href="students.shtml">Students</a><span class="hide"> | </span>
+<a class="nav" href="research.shtml">Research</a><span class="hide"> | </span>
+<a class="nav active" href="themes.shtml">Themes</a><span class="hide"> | </span>
+<a class="nav" href="training.shtml">Training</a><span class="hide"> | </span>
+<a class="nav" href="contact.shtml">Contact</a><span class="hide"> | </span>
+</p>
+</div>
+<!-- END div id="leftside" -->
+
+
+<!-- div id="rightside" -->
+<div id="rightside">
+
+<h1>Search</h1>
+<p class="searchform">
+<input type="text" alt="Search" class="searchbox" />
+<input type="submit" value="Go!" class="searchbutton" />
+</p>
+
+<h1>Latest news:</h1>
+<!--#include file="include/news.shtml" -->
+  
+<h1>Events:</h1>
+<!--#include file="include/events.shtml" -->
+
+<h1>Links:</h1>
+<!--#include file="include/links.shtml" -->
+
+</div>
+<!-- END div id="rightside" -->
+
+<div id="content">
+<h1>Thematic Areas in Developmental Psychology</h1>
+<img src="img/ChildrenPlaying.jpg" height="121" width="182" alt="Thumbnail example" />
+<p class="intro">This page describes the major themes that guide research and training in Developmental Psychoogy at Penn State.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<h2>Perceptual and cognitive development</h2>
+<a name="cognitive" id="cognitive"></a>
+<p>Perceptual and Cognitive development are core interests of the developmental program faculty. Faculty within the developmental area study ways that individuals (from infants through adults) come to understand their worlds through vision, action, social interaction, and education. Ongoing work examines such questions as:</p>
+<ul>
+<li>How basic perceptual capabilities develop and what are the neurological bases for those abilities?</li>
+<li>How are perception and action coupled throughout development</li>
+<li>How children construct basic symbolic and spatial cognitive abilities through interaction with their environment</li>
+<li>How basic cognitive abilities influence how more complex representations and skills are mastered</li>
+<li>What are the trajectories of development for communicating in both verbal and physically symbolic forms</li>
+</ul>
+<p>Developmental faculty and students working in this area interact heavily with faculty in programs such as Cognitive Psychology, the Center for Language Science, the Child Study Center, the Geo-Vista Center, Kinesiology, the College of Education, the College of Health and Human Development; those interested in the intersection of brain and cognition participate in the Specialization in Cognitive and Affective Neuroscience (SCAN) program.</p>
+<p><a href="faculty.shtml#liben">Lynn Liben</a>, <a href="faculty.shtml#gilmore">Rick Gilmore</a>, <a href="faculty.shtml#perez-edgar">Koraly Perez-Edgar</a>, <a href="faculty.shtml#scherf">Suzy Scherf</a>, <a href="faculty.shtml#van-hell">Janet van Hell</a>, and <a href="faculty.shtml#nelson">Keith Nelson</a> have particular interest in these questions.</p>
+
+<h2>Biological bases</h2>
+<a name="bio" id="bio"></a>
+<p>Biological evidence plays an increasingly important role in understanding behavioral development across the life span. Researchers at Penn State use a wide range of tools to study developmental processes, including genetics, neuroendocrine measures, brain imaging, and psychophysiological recording. Ongoing work examining the biological bases of behavioral development focuses on questions such as:</p>
+<ul>
+<li>How genes and environment work together to influence normal development or increase risk</li>
+<li>How hormones influence psychological development</li>
+<li>How functional brain activity develops from infancy to adulthood in the context of perceptual, emotional, and cognitive abilities?</li>
+<li>What role biological predispositions play in children'semotional responses to environmental stimuli</li>
+</ul>
+<p>Developmental faculty and students with interests in biological bases of behavior often participate in the Psychology Department's Specialization in Cognitive and Affective Neuroscience (SCAN) and the <a href="http://www.imaging.psu.edu">Social and Life Sciences Imaging Center</a> where shared-use EEG/ERP, psychophysiology, and a 3T MRI scanner are housed.  Researchers also interact with colleagues in the Psychology Department's Cognitive, Social, and Clinical Areas, the Center for Language Science, Kinesiology, Communication Sciences and Disorders, Biobehavioral Health, and Human Development and Family Studies, the College of Education, and the College of Medicine.</p>
+<p><a href="faculty.shtml#scherf">Suzy Scherf</a>, <a href="faculty.shtml#blandon">Alysia Blandon</a>, <a href="faculty.shtml#buss">Kristin Buss</a>, <a href="faculty.shtml#perez-edgar">Koraly Perez-Edgar</a>, <a href="faculty.shtml#berenbaum">Sheri Berenbaum</a>, <a href="faculty.shtml#van-hell">Janet van Hell</a>,<a href="faculty.shtml#neiderhiser"> Jenae Neiderhiser</a>, <a href="faculty.shtml#nelson">Keith Nelson</a> and <a href="faculty.shtml#gilmore">Rick Gilmore</a> employ these techniques in their research.</p>
+
+<h2>Gender</h2>
+<a name="gender" id="gender"></a>
+<p>Gender or&nbsp; biological sex is commonly used to organize social interactions and to catalogue social behaviors and cognitive outcomes. Developmental faculty and students at Penn State study a diverse range of questions related to gender, including those related to the biological origins of behavioral sex differences, the effects of gender-organized environments, and the ways in which family interactions may differ by gender.. Ongoing work related to gender and biological sex focuses on questions such as: </p>
+<ul type="disc">
+  <li>How do prenatal levels of      testosterone relate to children's later occupational interests,spatial      skills, toy preferences, and other sex-related behaviors?</li>
+  <li>How do parents socialize      their children's beliefs and actions about gender equity? </li>
+  <li>What accounts for      sex-related differences in spatial skills, and can these be influenced by      formal and informal education? </li>
+  <li>What are the academic and      social consequences of organizing environments (such as schools) by      gender? </li>
+</ul>
+<p>Developmental faculty and students with interests in gender may participate in the Psychology Department's Specialization in Cognitive and Affective Neuroscience (SCAN) &nbsp;or collaborate with faculty in Biobehavioral Health in the College of Human Development, in Women's Studies, or in social psychology within the Department of Psychology. Students with interests in gender also have the option of pursuing a dual degree option with Women's Studies. Penn State faculty with particular interests in these questions include <a href="faculty.shtml#berenbaum">Sheri Berenbaum</a>, <a href="faculty.shtml#liben">Lynn Liben</a>, and <a href="faculty.shtml#scherf">Suzy Scherf</a>.</p>
+<h2>Emotion, Temperament, and Adjustment</h2>
+<a name="emotion" id="emotion"></a>
+<p>Research on emotions and temperament are central to understanding individual developmental trajectories of adjustment and a core interest of the developmental program. Faculty within the developmental area study ways that emotions develop, how children learn to regulate their emotions, and how individual differences in temperament and personality impact developmental processes.  Ongoing work examining development of emotions and temperament focuses on questions such as:</p>
+<ul>
+  <li>How family processes, such as parenting and sibling relationships, influence the development of children's self-regulation</li>
+  <li>How different trajectories of self-regulation influence children's social and emotional development?</li>
+  <li>How the expression of emotion changes across development and across contexts</li>
+  <li>What role does temperament play in social interactions across the lifespan such as influencing family relationships</li>
+</ul>
+<p>Developmental faculty and students working in this area interact heavily with faculty in programs such as Child Clinical Psychology, the Child Study Center, the College of Health and Human Development, The Psychology Department's Specialization in Cognitive and Affective Neuroscience program, and the College of Education. </p>
+<p><a href="faculty.shtml#buss">Kristin Buss</a>, <a href="faculty.shtml#blandon">Alysia Blandon</a>, <a href="faculty.shtml#perez-edgar">Koraly Perez-Edgar</a>, and <a href="faculty.shtml#neiderhiser"> Jenae Neiderhiser</a> have strong interests in these questions.</p>
+
+<h2>Ecology of Development</h2>
+<a name="ecology" id="ecology"></a>
+<p>Children, youth, and families do not develop in a vacuum. Researchers are well aware of the multiple contexts that youth are embedded in, how these contexts singularly and interactively affect children's development, and understand that there is co-action among individuals and context. Individuals are shaped by the environments they inhabit and the settings they participate in, and environments and settings may be changed by individuals. Following a comprehensive framework such as Bronfenbrenner's ecological systems theory (1979), developmentalists examine a variety of contextual factors (e.g., families, peers, neighborhood, community, race/ethnicity, culture) which are believed to influence trajectories of development. Ongoing work that examines these types of contextual variables includes:</p>
+
+<ul>
+  <li>Community-based participatory work in Harrisburg, PA examining the sociocultural factors associated with anxiety in African American preschoolers.</li>
+  <li>Community-university partnerships in promoting healthy child development.</li>
+  <li>Exploration of social support and social capital as critical resources for urban adolescents developing in a constantly changing set of internal and ecological stirrings and challenges.</li>
+  <li>Examination of how the community context shapes adolescent development, particularly exploring ethnically and geographically (i.e., urban and rural) diverse individuals (i.e., adolescents and adults) definitions of neighborhood as well as neighborhood perceptions and their influence on well-being.</li>
+  <li>Investigation of adolescents' connections to multiple contexts (i.e., family, school, and neighborhood) as critical components for healthy psychological, academic, and social adjustment.</li>
+  <li>How marital and coparenting relationships influence children's social and emotional development.</li>
+</ul>
+
+<p><a href="faculty.shtml#witherspoon">Dawn Witherspoon</a>, <a href="faculty.shtml#blandon">Alysia Blandon</a>, <a href="faculty.shtml#buss">Kristin Buss</a>, <a href="faculty.shtml#liben">Lynn Liben</a>, <a href="faculty.shtml#nelson">Keith Nelson</a> and <a href="faculty.shtml#perez-edgar">Koraly Perez-Edgar</a> focus on these issues.</p>
+ 
+</div>
+<div class="clearingdiv">&nbsp;</div>
+</div>
+</div>
+<div id="footer">&copy; 2011-2012 Rick O. Gilmore | Design by <a href="http://andreasviklund.com">Andreas Viklund</a></div>
+</body>
+</html>

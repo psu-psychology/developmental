@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Penn State Developmental Psychology - People</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<meta name="description" content="Website for the developmental psychology area at Penn State" />
+<meta name="keywords" content="development, neuroscience, PSU, Penn State, psychology" />
+<meta name="author" content="Rick Gilmore / Original design by Andreas Viklund - http://andreasviklund.com" />
+<link rel="stylesheet" href="andreas09.css" type="text/css" media="screen" />
+</head>
+
+<body>
+<div id="container">
+
+<div id="sitename">
+<h1>Developmental Psychology at Penn State</h1>
+<h2>Studing human behavior across the life span</h2>
+</div>
+
+<div id="mainmenu">
+<ul>
+<li><a href="http://www.psu.edu">PSU</a></li>
+<li><a href="http://la.psu.edu">Liberal Arts</a></li>
+<li><a href="http://psych.la.psu.edu">Psychology</a></li>
+</ul>
+</div>
+ 
+<div id="wrap">
+
+<div id="leftside">
+<h1>Menu</h1>
+<p>
+<a class="nav" href="index.shtml">Home</a><span class="hide"> | </span>
+<a class="nav" href="faculty.shtml">Faculty</a><span class="hide"> | </span>
+<a class="nav" href="students.shtml">Students</a><span class="hide"> | </span>
+<a class="nav" href="research.shtml">Research</a><span class="hide"> | </span>
+<a class="nav" href="themes.shtml">Themes</a><span class="hide"> | </span>
+<a class="nav" href="contact.shtml">Contact</a><span class="hide"> | </span>
+</p>
+
+</div>
+
+<div id="rightside">
+<h1>Search</h1>
+<p class="searchform">
+<input type="text" alt="Search" class="searchbox" />
+<input type="submit" value="Go!" class="searchbutton" />
+</p>
+
+<h1>Latest news:</h1>
+<!-- #include virtual="news.shtml" -->
+
+<h1>Events:</h1>
+<!-- #include virtual="events.shtml" -->
+
+<h1>Links:</h1>
+<!-- #include virtual="links.shtml" -->
+</div>
+
+<div id="content">
+<h1>The Developmental Area - Faculty</h1>
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Sheri Berenbaum, Professor of Psychology and Pediatrics</h2>
+<p><a href="mailto:sab31@psu.edu">sab31@psu.edu</a>
+<p>Sheri Berenbaum's research...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Alysia Blandon, Assistant Professor of Psychology</h2>
+<p>Alysia Blandon's research...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Kristin Buss, Associate Professor of Psychology</h2>
+<p>Kristin Buss' research...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Rick Gilmore, Associate Professor of Psychology, Director of Human Imaging, SLEIC</h2>
+<p>Rick Gilmore's research...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Lynn Liben, Distinguished Professor of Psychology</h2>
+<p>Lynn Liben's research...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Keith Nelson, Professor of Psychology</h2>
+<p>Keith Nelson's...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Koraly Perez-Edgar, Associate Professor of Psychology</h2>
+<p>Koraly Perez-Edgar's...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Suzy Scherf, Assistant Professor of Psychology</h2>
+<p>Suzy Scherf's...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Janet van Hell, Professor of Psychology and Linguistics, Director of Center for Linguistics</h2>
+<p>Janet van Hell's...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+<img src="img/thumb1.jpg" height="130" width="130" alt="Thumbnail example" />
+<h2>Dawn Witherspoon, Assistant Professor of Psychology</h2>
+<p>Dawn Witherspoon's...</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br />
+
+</div>
+<div class="clearingdiv">&nbsp;</div>
+</div>
+</div>
+<div id="footer">&copy; 2011 Rick O. Gilmore | Design by <a href="http://andreasviklund.com">Andreas Viklund</a></div>
+</body>
+</html>
