@@ -154,6 +154,11 @@ line-height:1.4em;
 margin:0 0 16px 10px;
 }
 
+#rightside ul {
+	padding: 10px;
+	margin: 5px;
+}
+
 #centercontent {
 	margin-left: 165px;
 	margin-right: 165px;
