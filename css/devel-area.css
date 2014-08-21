@@ -78,6 +78,10 @@ img {
 }
 
 
+.bio-text {
+	font-size: smaller;
+}
+
 header h1 {
 	padding-top: 10px;
 }
