@@ -74,7 +74,9 @@ img {
 
 .sidebar1 aside {
 	font-size:smaller;
+	text-align: center;
 }
+
 
 header h1 {
 	padding-top: 10px;
@@ -95,21 +97,31 @@ nav ul {
 	list-style: none; /* this removes the list marker */
 	border-top: 1px solid #666; /* this creates the top border for the links - all others are placed using a bottom border on the LI */
 	margin-bottom: 15px; /* this creates the space between the navigation on the content below */
+	width: 180px;
+	text-align: center;
 }
+
 nav ul li {
 	border-bottom: 1px solid #666; /* this creates the button separation */
 }
+
 nav ul a, nav ul a:visited { /* grouping these selectors makes sure that your links retain their button look even after being visited */
 	padding: 5px 5px 5px 15px;
 	display: block; /* this gives the link block properties causing it to fill the whole LI containing it. This causes the entire area to react to a mouse click. */
 	width: 160px;  /*this width makes the entire button clickable for IE6. If you don't need to support IE6, it can be removed. Calculate the proper width by subtracting the padding on this link from the width of your sidebar container. */
-	text-decoration: none;
+	/*text-decoration: none;*/
 	background: #C6D580;
+	text-transform: uppercase;
+
 }
-nav ul a:hover, nav ul a:active, nav ul a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
+
+nav .this-page, ul a:hover, nav ul a:active, nav ul a:focus { /* this changes the background and text color for both mouse and keyboard navigators */
 	background: #ADB96E;
 	color: #FFF;
+	border:1 px solid #909090;
+	text-decoration: none;
 }
+
 
 /* ~~ The footer ~~ */
 footer {
