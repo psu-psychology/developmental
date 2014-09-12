@@ -94,6 +94,9 @@ header aside {
 	text-transform: lowercase;
 }
 
+.tan-bgd {
+	background: #CCC49F;
+}
 
 /* ~~ This grouped selector gives the lists in the .content area space ~~ */
 .content ul, .content ol {
