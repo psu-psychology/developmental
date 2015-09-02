@@ -10,7 +10,7 @@
 | September 30 | Jana Iverson, University of Pittsburgh | Early Motor and Communicative Development in Typically-Developing and At-Risk Populations |
 | October 7	   | Daniel Messinger, University of Miami | *Review Papers* |
 | October 14   | STUDENT ONLY MEETING	     | Kingsley Schroeder
-| October 21	John Helm, HDFS	             | Bayesian versus Frequentist Estimation of Multi-Trait Multi-Method Confirmatory Factor Models |
+| October 21   | John Helm, HDFS	         | Bayesian versus Frequentist Estimation of Multi-Trait Multi-Method Confirmatory Factor Models |
 | October 28   | Lisa Gatzke-Kopp, HDFS	     | Developmental Adaptation: The case of decision making |
 | November 4   | Professional Development	 |                                                       |
 | November 11  | STUDENT ONLY MEETING	     | Amanda Ramos                                          |
