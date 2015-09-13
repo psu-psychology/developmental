@@ -1,0 +1,203 @@
+---
+title: "gilmore-thomas-fesi-2015"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+output:
+  ioslides_presentation:
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+    incremental: false
+    widescreen: true
+    smaller: false
+  beamer_presentation: default
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+bibliography: bibliography.bib
+---
+
+## How Do Children's Brains Respond to Flow?
+
+- If infant-like: stronger responses to **fast, linear flows**
+- If adult-like: stronger responses to **slow, radial flows**
+    
+## Child Responses to Flow
+
+### Methods
+- Time-varying optic flow patterns
+- Steady-state visual evoked potentials (SSVEPs)
+    + Event-related EEG technique
+    + Focus on phase-locked, low-order harmonics
+- n=29 4-8 year-olds
+
+(Gilmore, Thomas, & Fesi, under review)
+
+<https://databrary.org/volume/75>
+
+<https://github.com/gilmore-lab/gilmore-thomas-fesi-2015>
+
+## Displays
+
+- Modulate coherence/signal-to-noise ratio (SNR), 100%/0%
+- Modulation frequency 1.2 Hz (1F1), dots update rate 24 Hz (1F2)
+- 3 Patterns {radial, rotation, translation} x 3 Speeds {2, 4, 8 deg/s}
+
+## [2 deg/s translation](https://databrary.org/slot/6493/-/asset/11635/download?inline=true)
+
+<div class="centered">
+<video controls height=450px>
+  <source src="https://databrary.org/slot/6493/-/asset/11635/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+## [4 deg/s rotation](https://databrary.org/slot/6493/-/asset/11649/download?inline=true)
+
+<div class="centered">
+<video controls height=450px>
+  <source src="https://databrary.org/slot/6493/-/asset/11649/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+## [8 deg/s expansion](https://nyu.databrary.org/slot/6493/-/asset/11645/download?inline=true)
+
+<div class="centered">
+<video controls height=450px>
+  <source src="https://nyu.databrary.org/slot/6493/-/asset/11645/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+## Data analysis
+
+- Fourier analysis (frequency domain)
+    + generates complex domain (real, imaginary) components
+    + time-varying signals have amplitude, phase
+- [Codepen Demo](http://codepen.io/anon/pen/jPGJMK)
+
+## Data analysis
+
+- Use mixed effects MANOVA to capture phase, amplitude
+    + *Pattern* (radial, rotation, linear) and *Speed* (2, 4, 8 deg/s) as fixed effects
+    + Individual means as random factors
+- Analyze channels independently
+
+## [1F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [1F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-1.png) 
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/vector-amplitude-barplots-pattern-1.png" width="800px">
+</div>
+
+## [Complex Domain Plot of 1F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/complex-domain-plots-pattern-1.png" height="500px">
+</div>
+
+## 1F1 Results Summary
+
+- Highly responsive channels over right lateral cortex
+- Radial & rotation >> translation
+- Amplitude and phase differences
+
+## [2F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/2F1/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [3F1 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [3F1 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-speed-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/vector-amplitude-barplots-speed-1.png" width="800px">
+</div>
+
+## [Complex Domain Plot of 3F1 Channels](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-speed-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/complex-domain-plots-speed-1.png" height="500px">
+</div>
+
+## 3F1 Results Summary
+
+- Highly responsive channels over medial cortex.
+- Speed, but not pattern tuned, 2 < 4 < 8 deg/s.
+- Amplitude and phase differences.
+
+## [1F2 Channel-Wise Results](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [1F2 Channels *p* < .0005](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-speed-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/vector-amplitude-barplots-speed-1.png" width="800px">
+</div>
+
+## Results Summary
+
+- Anatomical separation of responses
+    + speed (medial)
+    + vs. pattern (lateral)
+- Radial & rotation != translation, phase and amplitude
+- Speed tuning
+
+## [Comparing Adults 1F1](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/adult/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F1/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [Adults' 3F1](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [Adults' 1F2](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/adult/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/3F1/adult/channel-wise-effects-1.png" width="800px">
+</div>
+
+## [To Children's](https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png)
+
+<div class="centered">
+<img src="https://rawgit.com/gilmore-lab/gilmore-thomas-fesi-2015/master/figs/1F2/child/channel-wise-effects-1.png" width="800px">
+</div>
+
+## Developmental Effects
+
+- Children adult-like in some respects
+    + Lateral "pattern" responses @ 1F1
+    + Medial "speed" responses @ 3F1 and 1F2
+- Activate smaller # of channels
+- Unilateral
