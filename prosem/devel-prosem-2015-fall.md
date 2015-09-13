@@ -5,7 +5,7 @@
 | August 26	   | Introduction to the Semester  | State of the Area |
 | September 2  | [Patricia Hswe](http://www.personal.psu.edu/users/p/m/pmh22/) & [Nonny Schlotzhauer](https://www.libraries.psu.edu/psul/staffdirectory.html?uid=vxs120), PSU Libraries | *It's 2015. Do You Know Where Your Data Are?* |
 | September 9  | STUDENT ONLY MEETING         | Elizabeth Shewark |
-| September 16 | [Rick Gilmore](http://psych.la.psu.edu/directory/rog1)                 | *Experience matters: Measuring the microstructure of visual experience to better understand perceptual development*. Slides: [Markdown](2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd). [HTML](https://gitraw.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html).
+| September 16 | [Rick Gilmore](http://psych.la.psu.edu/directory/rog1)                 | *Experience matters: Measuring the microstructure of visual experience to better understand perceptual development*. Slides: [Markdown](2015-09-16-gilmore/dev-prosem-2015-09-16.Rmd). [HTML](https://rawgit.com/psu-psychology/developmental/master/prosem/2015-09-16-gilmore/dev-prosem-2015-09-16.html).
 | September 23 | [Koraly Perez-Edgar](http://psych.la.psu.edu/directory/kxp24)	          | *Attention Processes in Socioemotional Development: Balancing Constructs and Tasks* |
 | September 30 | [Jana Iverson](http://www.psychology.pitt.edu/person/jana-iverson-phd), University of Pittsburgh | *Early Motor and Communicative Development in Typically-Developing and At-Risk Populations* |
 | October 7	   | [Daniel Messinger](http://www.psy.miami.edu/faculty/dmessinger/), University of Miami | *Review Papers* |
