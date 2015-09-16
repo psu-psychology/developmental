@@ -404,6 +404,24 @@ $\chi^2(20)$: `r df.th.loco.stats[1,1]`: `r df.th.loco.stats[1,2]`, `r df.th.loc
 - Chennai, India & Bloomington, Indiana
 - Data: <http://databrary.org/volume/81>
 
+## 6 weeks
+
+<div class="centered">
+<video controls height=500px>
+  <source src="https://nyu.databrary.org/slot/7574/160611,1275306/asset/15844/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
+## 36 weeks
+
+<div class="centered">
+<video controls height=500px>
+  <source src="https://nyu.databrary.org/slot/7583/1374411,3123403/asset/16062/download?inline=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
 ## Cultural Differences in Segment Durations {.flexbox .vcenter}
 
 ```{r segment-durations}
