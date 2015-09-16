@@ -87,6 +87,14 @@ bibliography: bibliography.bib
 | Horizontal/vertical head rotation | Translation           |
 | Horizontal/vertical eye movements | Translation           |
 
+## Functions linked to optic flow processing
+
+- Environmental geometry
+- Egocentric position, trajectory
+- Forward models/sensorimotor stability
+    + Self vs. world/object motion
+- Object detection, identification
+
 ## How Does Optic Flow Sensitivity Develop?
 
 - Sensitivity at birth, [@jouen_optic_2000]
